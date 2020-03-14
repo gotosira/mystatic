@@ -1,0 +1,2 @@
+# mystatic
+Created with CodeSandbox
